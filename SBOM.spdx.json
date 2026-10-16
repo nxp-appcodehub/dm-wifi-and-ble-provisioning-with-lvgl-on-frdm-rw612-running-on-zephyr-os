@@ -1,0 +1,35 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "creationInfo": {
+    "created": "2026-09-20T06:32:16Z",
+    "creators": [
+      "Organization: NXP"
+    ],
+    "licenseListVersion": "3.28"
+  },
+  "name": "dm-wifi-and-ble-provisioning-with-lvgl-on-frdm-rw612-running-on-zephyr-os",
+  "dataLicense": "CC0-1.0",
+  "documentNamespace": "https://nxp.com/spdx/8b10fd35-082a-4697-8670-04b3e8688678",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-package-8b10fd35-082a-4697-8670-04b3e8688678",
+      "name": "dm-wifi-and-ble-provisioning-with-lvgl-on-frdm-rw612-running-on-zephyr-os",
+      "versionInfo": "v1.0",
+      "licenseConcluded": "(Apache-2.0)",
+      "licenseDeclared": "(Apache-2.0)",
+      "downloadLocation": "https://github.com/nxp-appcodehub/dm-wifi-and-ble-provisioning-with-lvgl-on-frdm-rw612-running-on-zephyr-os",
+      "originator": "Organization: NXP",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-package-8b10fd35-082a-4697-8670-04b3e8688678"
+    }
+  ]
+}
